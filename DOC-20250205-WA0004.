@@ -1,0 +1,111 @@
+/* Estilo Geral */
+body {
+  color: #FFFFFF;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+}
+/* Barra de Menu*/
+.menu {
+  position: fixed;
+  top: 0px;
+  left: -60%;
+  width: 60%;
+  height: 100%;
+  background-color: #FF4747CC;
+  transition: 0.3s;
+}
+.menu ul {
+  list-style: none;
+  padding: 0px;
+}
+.menu li {
+  text-align: center;
+  padding: 15px;
+}
+.menu a {
+  color: #FFFFFF;
+  font-size: 18px;
+  text-decoration: none;
+}
+/* Cabeçalho */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFFFFF;
+  background: #E41A1A;
+  padding: 15px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #FFFFFFB8;
+  border-radius: 30%;
+}
+.menu-icon {
+  font-size: 30px;
+  cursor: pointer;
+}
+/* Corpo Principal*/
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+h1, h2, h3 {
+  font-family: 'Times New Roman', Times, serif;
+}
+.descricao {
+  text-align: justify;
+}
+.detalhe {
+  text-align: left;
+}
+section {
+  width: 90%;
+  margin: 0px;
+  padding: 20px;
+  background: #000000;
+  text-align: center;
+}
+.imagem img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+.imagem a {
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.icon img {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+}
+/* Rodapé */
+footer {
+  font-family: monospace;
+  padding: 15px;
+  background: #7A2222D4;
+  color: #FFFFFF;
+  text-align: center;
+}
+.perna {
+  font-size: 18px;
+  color: #FFFFFF;
+}
+/* Responsividade */
+@media (min-width: 768px) {
+  main {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .menu {
+    width: 30%;
+    left: -30%;
+  }
+}

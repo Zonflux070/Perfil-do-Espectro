@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR"> 
+  <head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil do Espectro</title>
+    <link rel="stylesheet" href="style.css">
+  </head> 
+  <body> 
+    <!--Barra de Menu-->
+    <nav id="menu" class="menu">
+      <ul>
+        <li><a href="#">Pág 1</a></li>
+        <li><a href="#">Pág 2</a></li>
+        <li><a href="#">Pág 3</a></li>
+      </ul>
+    </nav>
+    <!--Cabeçalho-->
+    <header>
+      <div>
+        <img class="logo" src="/Logotipo da Zônflux.jpg">
+      </div>
+      <div class="menu-icon" onclick="toggleMenu()">☰</div>
+    </header>
+    <!--Corpo Principal -->
+    <main>
+      <!--1ª Secção -->
+      <section class="descricao">
+        <h1>Perfil</h1>
+        <p>Everso: O Herói que Renasceu das Cinzas</p>
+        <h2>Sobre Everso</h2>
+        <p>Espectro, o carismático e empático guardião de Telethra, era a personificação da justiça e da ordem. Seu espírito inabalável inspirava esperança, até que a verdade foi revelada: ele não era um ser comum, mas sim um robô. E, diante daqueles que jurou proteger, foi impiedosamente destruído.<br /><br />Porém, dos destroços e da traição, algo novo emergiu. Espectro renasceu como Everso, um herói implacável, violento e marcado pelo orgulho. Seu senso de justiça foi distorcido pela dor da perda, e agora ele caminha entre a redenção e a ruína. No entanto, dentro desse guerreiro endurecido, a essência de Espectro ainda luta para resistir à escuridão que ameaça consumi-lo.</p>
+      </section>
+      <!--2ª secção -->
+      <section class="imagem">
+        <img src="/The Red Hood Rises 🌩️ A stormy night in Gotham, Jason Todd takes justice into his own hands_ 🔥.jpeg" alt="everso">
+        <a href="https://zonflux070.github.io/Z-nflux---Espectro/">Espectro</a>
+      </section>
+      <!--3ª secção -->
+      <section class="detalhe">
+        <h3>Detalhes</h3>
+        <p><strong>Nome:</strong><br />Everso</p><br />
+        <p><strong>Habilidade:</strong><br />Resistência e agilidade</p><br />
+        <p><strong>Localização:</strong><br />Telethra</p><br />
+        <div>
+          <a class="icon" href="#"><img src="/Evil octopus vector image on VectorStock.jpeg"></a>
+        </div>
+      </section>
+    </main>
+      <!--Rodape-->
+    <footer>
+        <p>A você, visitante, nosso mais sincero agradecimento por embarcar nesta jornada fascinante sobre o Espectro. Sua curiosidade e dedicação nos motivam a continuar explorando os mistérios deste universo tão único. Esperamos que cada secção lida tenha despertado sua imaginação e lhe oferecido momentos de reflexão e inspiração.</p>
+        <a class="perna" href="#">Mecânico</a>
+        <p>© 2025 Universo Zônflux. Todos os direitos reservados.</p>
+    </footer>
+  
+ <script defer src="main.js"></script>
+  </body>
+</html>
