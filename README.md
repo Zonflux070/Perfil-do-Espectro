@@ -130,7 +130,7 @@ footer {
     <!--Cabeçalho-->
     <header>
       <div>
-        <img class="logo" src="/Logotipo da Zônflux.jpg">
+        <img class="logo" src="playlistCropperBoomPlayer.jpg">
       </div>
       <div class="menu-icon" onclick="toggleMenu()">☰</div>
     </header>
@@ -145,7 +145,7 @@ footer {
       </section>
       <!--2ª secção -->
       <section class="imagem">
-        <img src="/The Red Hood Rises 🌩️ A stormy night in Gotham, Jason Todd takes justice into his own hands_ 🔥.jpeg" alt="everso">
+        <img src="The Red Hood Rises 🌩️ A stormy night in Gotham, Jason Todd takes justice into his own hands_ 🔥.jpeg" alt="everso">
         <a href="https://zonflux070.github.io/Z-nflux---Espectro/">Espectro</a>
       </section>
       <!--3ª secção -->
@@ -155,7 +155,7 @@ footer {
         <p><strong>Habilidade:</strong><br />Resistência e agilidade</p><br />
         <p><strong>Localização:</strong><br />Telethra</p><br />
         <div>
-          <a class="icon" href="#"><img src="/Evil octopus vector image on VectorStock.jpeg"></a>
+          <a class="icon" href="#"><img src="Evil octopus vector image on VectorStock.jpeg"></a>
         </div>
       </section>
     </main>
