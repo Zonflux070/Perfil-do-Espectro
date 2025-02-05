@@ -42,6 +42,7 @@ header {
   justify-content: space-between;
   align-items: center;
   color: #FFFFFF;
+  width: 100%;
   background: #E41A1A;
   padding: 15px;
 }
@@ -60,6 +61,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
   margin: 0px;
   padding: 0px;
 }
@@ -73,7 +75,7 @@ h1, h2, h3 {
   text-align: left;
 }
 section {
-  width: 90%;
+  width: 100%;
   margin: 0px;
   padding: 20px;
   background: #000000;
@@ -99,6 +101,7 @@ footer {
   padding: 15px;
   background: #7A2222D4;
   color: #FFFFFF;
+  width: 100%;
   text-align: center;
 }
 .perna {
