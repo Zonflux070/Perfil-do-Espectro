@@ -44,7 +44,8 @@ header {
   color: #FFFFFF;
   width: 100%;
   background: #E41A1A;
-  padding: 15px;
+  margin: 0px;
+  padding: 0px;
 }
 .logo {
   width: 40px;
@@ -77,7 +78,7 @@ h1, h2, h3 {
 section {
   width: 100%;
   margin: 0px;
-  padding: 20px;
+  padding: 0px;
   background: #000000;
   text-align: center;
 }
@@ -98,7 +99,9 @@ section {
 /* Rodapé */
 footer {
   font-family: monospace;
-  padding: 15px;
+  font-size: 10px;
+  margin: 0px;
+  padding: 0px;
   background: #7A2222D4;
   color: #FFFFFF;
   width: 100%;
