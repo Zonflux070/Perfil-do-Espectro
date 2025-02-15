@@ -161,7 +161,7 @@ footer {
         <p><strong>Habilidade:</strong><br />Resistência e agilidade</p><br />
         <p><strong>Localização:</strong><br />Telethra</p><br />
         <div>
-          <a class="icon" href="#"><img src="Evil octopus vector image on VectorStock.jpeg"></a>
+          <a class="icon" href="https://zonflux070.github.io/Mikasa-mi-Nzolu-/"><img src="Evil octopus vector image on VectorStock.jpeg"></a>
         </div>
       </section>
     </main>
